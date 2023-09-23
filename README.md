@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
 
-👋 **Hello, I'm Val!**
+## 👋 **Hello, I'm Val!**
 
 I'm a dedicated QA Engineer with a passion for ensuring software quality and reliability. I specialize in web automation using **Cucumber**, **Selenium**, **Java**, and **Katalon**, and I have a knack for API testing with **Postman** and **Rest Assured**. 
 
@@ -32,9 +31,6 @@ I am on a continuous journey to improve my QA skills and contribute to the devel
 📫 **Let's Connect:**
 Feel free to reach out for collaboration, discussion, or simply to say hello! Drop me an email at [putrivalenzia14@gmail.com](mailto:putrivalenzia14@gmail.com).
 
-🌟 **Thank you for visiting my GitHub profile!**
-
----
 
 ## 🔨Tools
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
@@ -49,3 +45,4 @@ Feel free to reach out for collaboration, discussion, or simply to say hello! Dr
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+🌟 **Thank you for visiting my GitHub profile!**
