@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 👋 **Hello, I'm Val!**
+## 👋 Hello, I'm Val!
 
 I'm a dedicated QA Engineer with a passion for ensuring software quality and reliability. I specialize in web automation using **Cucumber**, **Selenium**, **Java**, and **Katalon**, and I have a knack for API testing with **Postman** and **Rest Assured**. 
 
