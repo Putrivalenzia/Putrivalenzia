@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 
 I'm a dedicated QA Engineer with a passion for ensuring software quality and reliability. I specialize in web automation using **Cucumber**, **Selenium**, **Java**, and **Katalon**, and I have a knack for API testing with **Postman** and **Rest Assured**. 
 
-🌐 **Skills & Expertise:**
-- **Web Automation:** Proficient in creating comprehensive and efficient test suites for web applications, ensuring seamless user experiences.
-- **API Testing:** Experienced in testing APIs to validate data accuracy and functionality.
-- **Test Frameworks:** Well-versed in utilizing testing frameworks like TestNG to enhance test cases and improve automation workflows.
-- **Version Control:** Skilled in using **Git** for version control and collaboration with development teams.
-- **Continuous Learning:** Committed to staying up-to-date with the latest QA practices and technologies to deliver top-notch results.
-
 🚀 **My Mission:**
 I am on a continuous journey to improve my QA skills and contribute to the development of high-quality software. My goal is to ensure that every software product I test meets and exceeds user expectations.
 
